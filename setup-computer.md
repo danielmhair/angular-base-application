@@ -9,10 +9,14 @@ This will assume you went through all the necessary videos from Udemy's Course a
 With this knowledge, you are ready
 
 ## Overview:
-### Step 1 - Install NodeJS
-### Step 2 - Install Yarn
-### Step 3 - Install Typescript
+Throughout this 
+### Step 1 - Install [NodeJS](https://nodejs.org/en/download/)
+NodeJS will help you Click on the link "NodeJS" above. Select the operating
+### Step 2 - Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+### Step 3 - Install Typescript via `npm install -g typescript`
 ### Step 4 - Install Angular's CLI
+See image below:
+<img src="https://cli.angular.io/images/cli-logo.svg" />
 ### Step 5 - Verify Angular's CLI is working
 #### Step 5a - Run `ng new my-first-app`
 #### Step 5b - Run `ng serve -o`
