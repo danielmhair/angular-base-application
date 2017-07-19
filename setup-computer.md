@@ -28,22 +28,45 @@ To open the command line, either search for "Command Prompt" in Windows (or pres
 #### Step 3b - Install Typescript with Yarn
 Run the following line in the command line / terminal.
 ```
-yarn add typescript
+yarn global add typescript
 ```
 
 ### Step 4 - Install Angular's CLI
 The image below is from [Angular Cli's Guide](https://cli.angular.io).
 
-These commands show then installing the cli through `npm`. It is just like `Yarn`. So those commands are a reference.
+These commands show them installing the cli through `npm`. It is just like `Yarn`. So those commands are a reference.
 
 <img src="https://cli.angular.io/images/cli-logo.svg" />
 
-This is to show you that any library installed with `npm` can be installed with `yarn`. Run the following commands below.
+This is to show you that any library installed with `npm` can be installed with `yarn`. The following commands below do the same thing as`npm`.
 ```
-yarn add @angular/cli
+yarn global add @angular/cli
 ng new first-app
 cd first-app
 ng serve -o
 ```
+`ng serve` will compile your app, or rather start your app. The `-o` will automatically open the browser for you.
 
 ### Step 6 - Copy code in this repo
+
+#### Step 6a - Install Git Bash
+Git bash is a command line that lets you use git through the command line.
+
+#### Step 6b - Open Git bash and run git clone
+In the command line (git bash) run the following
+```
+git clone https://www.github.com/danielmhair.com/angular-base-application.git
+```
+
+This will copy the code in this repository.
+
+Run:
+```
+cd angular-base-application
+yarn install
+```
+
+`yarn install` will allow you to install all the libraries that is in this program.
+
+### You are ready for Saturday!
+```
