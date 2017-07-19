@@ -1,12 +1,12 @@
 Setting up computer for Programming Session 1
 =============================================
 
-We will assume you went through all the necessary videos from `Udemy`'s Course about Web Developement from the teacher `Rob Percival`. The necessary videos are as follows:
+Since you went through all the necessary videos from `Udemy`'s Course about Web Developement from the teacher `Rob Percival` (as shown below):
 - Section 1: HTML
 - Section 2: CSS
 - Section 3: Javascript
 
-NOTE: You can still go through these steps if you haven't finished those tutorials. Just be sure to have those finished by Saturday (if you can).
+You are now ready to be introduced to `Typescript` and `Angular`. You can still go through these steps if you haven't finished those tutorials. Just be sure to have those finished by Saturday, July 19th, 2017 (if you can).
 
 ## Overview:
 Throughout this process, some of these words will not be familiar to you. Ignore that. Just know that they are needed to setup your computer to use `Typescript` and `Angular`. As we go through the session and in the future, these things will make more sense.
