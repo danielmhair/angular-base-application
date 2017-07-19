@@ -55,10 +55,10 @@ Git bash is a command line that lets you use git through the command line.
 #### Step 6b - Open Git bash and run git clone
 In the command line (git bash) run the following
 ```
-git clone https://www.github.com/danielmhair.com/angular-base-application.git
+git clone https://www.github.com/danielmhair/angular-base-application.git
 ```
 
-This will copy the code in this repository.
+This will copy the code in this repository into a folder in the same folder your command line is in. So change directories to that folder with the `cd` command.
 
 Run:
 ```
@@ -66,7 +66,7 @@ cd angular-base-application
 yarn install
 ```
 
-`yarn install` will allow you to install all the libraries that is in this program.
+`yarn install` will allow you to install all the libraries that is in this app. Whenever you use `yarn add` it keeps track of them so anyone else copying your reply can install them too.
 
 ### You are ready for Saturday!
 ```
