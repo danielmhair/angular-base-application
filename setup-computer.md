@@ -41,15 +41,18 @@ These commands show them installing the cli through `npm`. It is just like `Yarn
 This is to show you that any library installed with `npm` can be installed with `yarn`. The following commands below do the same thing as`npm`.
 ```
 yarn global add @angular/cli
-ng new first-app
-cd first-app
+ng new my-dream-app
+cd my-dream-app
 ng serve -o
 ```
-`ng serve` will compile your app, or rather start your app. The `-o` will automatically open the browser for you.
+- `yarn global add @angular/cli` will install Angular's CLI for your computer. The `global` means to install this to your entire computer. Its just like installing a program with an `exe` file.
+- `ng new my-dream-app` will create a new Angular application. `my-dream-app` can be anything. This is the folder that your app will be put into.
+- `cd my-dream-app` will change directories (`cd`) to the folder `my-dream-app`.
+- `ng serve` will compile your app, or rather start your app. The `-o` will automatically open the browser for you.
 
 ### Step 6 - Copy code in this repo
 
-#### Step 6a - Install Git Bash
+#### Step 6a - Install [Git Bash](https://git-scm.com/downloads)
 Git bash is a command line that lets you use git through the command line.
 
 #### Step 6b - Open Git bash and run git clone
@@ -69,4 +72,3 @@ yarn install
 `yarn install` will allow you to install all the libraries that is in this app. Whenever you use `yarn add` it keeps track of them so anyone else copying your reply can install them too.
 
 ### You are ready for Saturday!
-```
