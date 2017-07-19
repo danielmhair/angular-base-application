@@ -6,5 +6,5 @@ This will also be an overview of all your learning, so you can always refer back
 
 ## Overview
 
-### Session 1 Preparation - [Setting up your computer for Angular and Typescript](./setup-computer.md)
+### [Session 1 Preparation](./setup-computer.md)
 ### [Session 1 Presentation Notes](session-1-notes.md)
