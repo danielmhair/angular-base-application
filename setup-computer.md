@@ -8,13 +8,6 @@ As a recap, you have went through all the necessary videos from `Udemy`'s Course
 
 Now you are ready to start coding in HTML, CSS and JavaScript. You have been exposed to these languages, but it only makes sense when you start using them and understand the concepts of programming.
 
-Throughout all the sessions, I am going to highlight an action item with bolded text and other things. An example is as follows:
-
-**Action Item**
-```
-Code will be here or images or something else
-```
-
 ### Get familiar with the command line
 I'm not sure how familiar you are with the command line. Here is picture just in case:
 
@@ -35,7 +28,6 @@ Here are a few commands:
 
 Moving on! I suggest making a folder where all your programming apps go into. I usually have a folder called `C:\Users\danielmhair\Workspace`.
 
-**Action Item**
 In windows:
 ```
 dir "C:\Users\<username>
@@ -62,8 +54,7 @@ Now that you know about the command line, you now know there are multiple kinds 
 
 #### Install [Git Bash](https://git-scm.com/downloads)
 We are going to have you install another command line called `Git Bash`. This allows you to use commands from `GitHub` in order to update a repo with your new code, copy code from a repo (which is what you are going to do now), and other things. Click on the link above and download git bash. Below are images showing what options to put when installing it.
-
-**Action Items**<br />
+<br />
 <img src="./docs/git-bash-1.png" /><br />
 <img src="./docs/git-bash-2.png" /><br />
 You might notice that the next step is telling git bash to add linux commands to the command line. This will add all the features of git bash in the Command Prompt and let you run `git` (`GitHub`) commands. The other addition linux commands means that instead of using `dir` to change directories, you can use what MAC uses, `cd`! Now changing from MAC to Windows will not be much different for you. <br />
@@ -75,7 +66,6 @@ You might notice that the next step is telling git bash to add linux commands to
 
 Open the command line (be sure to restart the command line after installing `git bash`).
 
-**Action Item**
 ```
 cd <the-path-to-your-programming-directory>
 git clone https://www.github.com/danielmhair/angular-base-application.git
