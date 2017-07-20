@@ -12,7 +12,7 @@ Throughout all the sessions, I am going to highlight an action item with bolded 
 
 **Action Item**
 ```
-<code will be here or something else>
+Code will be here or images or something else
 ```
 
 ### Get familiar with the command line
@@ -63,14 +63,14 @@ Now that you know about the command line, you now know there are multiple kinds 
 #### Install [Git Bash](https://git-scm.com/downloads)
 We are going to have you install another command line called `Git Bash`. This allows you to use commands from `GitHub` in order to update a repo with your new code, copy code from a repo (which is what you are going to do now), and other things. Click on the link above and download git bash. Below are images showing what options to put when installing it.
 
-**Action Items**
-<img src="./docs/git-bash-1.png" /><br/>
-<img src="./docs/git-bash-2.png" /><br/>
-<img src="./docs/git-bash-3.png" /><br/>
-<img src="./docs/git-bash-4.png" /><br/>
-<img src="./docs/git-bash-5.png" /><br/>
-<img src="./docs/git-bash-6.png" /><br/>
-<img src="./docs/git-bash-7.png" /><br/>
+**Action Items**<br />
+<img src="./docs/git-bash-1.png" /><br />
+<img src="./docs/git-bash-2.png" /><br />
+<img src="./docs/git-bash-3.png" /><br />
+<img src="./docs/git-bash-4.png" /><br />
+<img src="./docs/git-bash-5.png" /><br />
+<img src="./docs/git-bash-6.png" /><br />
+<img src="./docs/git-bash-7.png" /><br />
 
 
 #### Open `Git Bash`
