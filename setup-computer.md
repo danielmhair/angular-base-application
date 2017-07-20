@@ -13,7 +13,7 @@ I'm not sure how familiar you are with the command line. Here is picture just in
 
 <img src="https://www.computerhope.com/issues/pictures/dos.jpg" />
 
-If you were into computers when the first windows came out, this was what a computer was (DOS). DOS (the command line) is still used by IT and CS people on a daily basis. I wanted to have an introduction with you about these things so you were aware of it. You might already know about it. In this case, ignore this head and skip to "Copy code in this repo".
+If you were into computers when the first windows came out, this was what a computer was (DOS). DOS (the command line) is still used by IT and CS people on a daily basis. I wanted to have an introduction with you about these things so you were aware of it. You might already know about it. In this case, ignore this heading and skip to the heading called "Copy code in this repo `angular-base-application`" below.
 
 Don't be afraid of the command line. Many people, especially using it for the first time always say they are afraid that they are going to ruin your computer. There is really only one command that can do that with `rm -rf *`. Trust me, you don't ever want to do this, this will literally wipe your hard drive. lol. As long as you don't run that command, then your good!
 
