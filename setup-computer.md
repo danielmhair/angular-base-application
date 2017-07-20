@@ -66,6 +66,7 @@ We are going to have you install another command line called `Git Bash`. This al
 **Action Items**<br />
 <img src="./docs/git-bash-1.png" /><br />
 <img src="./docs/git-bash-2.png" /><br />
+You might notice that the next step is telling git bash to add linux commands to the command line. This will add all the features of git bash in the Command Prompt and let you run `git` (`GitHub`) commands. The other addition linux commands means that instead of using `dir` to change directories, you can use what MAC uses, `cd`! Now changing from MAC to Windows will not be much different for you. <br />
 <img src="./docs/git-bash-3.png" /><br />
 <img src="./docs/git-bash-4.png" /><br />
 <img src="./docs/git-bash-5.png" /><br />
