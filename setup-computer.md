@@ -73,9 +73,7 @@ You might notice that the next step is telling git bash to add linux commands to
 <img src="./docs/git-bash-6.png" /><br />
 <img src="./docs/git-bash-7.png" /><br />
 
-
-#### Open `Git Bash`
-Search for the icon `Git Bash` on your desktop or in the start menu. Then in it's command line (git bash) run the following:
+Open the command line (be sure to restart the command line after installing `git bash`).
 
 **Action Item**
 ```
