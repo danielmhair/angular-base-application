@@ -3,6 +3,8 @@ Session 1 Notes
 
 Keep in mind that we will not get through all lists in `Programming and the real world`. But as we decide which app we will build, we will take one of the pieces of the app (a section of it), and then teach you all these principles as we build it. It doesn't matter how far we get. The next session we have will continue from that point. But we will do these through projects to build an app. This is why we will cover how to use Chrome's console, debugging, and which app we want to focus on first.
 
+The reason we are deciding which app to focus on first, is because its like art. When you first learn art, you don't start off with making a picasso painting. You start with the basics. So we will probably focus on an app that will have more mini tasks. Now, if we can design your idea in a way that is by pieces, then we can do that too. We just need to have the conversation. :)
+
 ## Overview
 - Learning through Chrome's console
   1. Open Google Chrome
