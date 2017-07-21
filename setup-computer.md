@@ -6,14 +6,14 @@ As a recap, you have went through all the necessary videos from `Udemy`'s Course
 - Section 2: CSS
 - Section 3: Javascript
 
-Now you are ready to start coding in HTML, CSS and JavaScript. You have been exposed to these languages, but it only makes sense when you start using them and understand the concepts of programming.
+Now you are ready to start coding in HTML, CSS and JavaScript. You have been exposed to these languages, but it only makes sense when you start using them and understand the concepts of programming as you code in these languages. Before doing this though, we need to go over some basics of tools that programmers always use. One of the main tools we will use is GitHub. To use GitHub most effectively, you will need to know how to use the command line.
 
 ### Get familiar with the command line
-I'm not sure how familiar you are with the command line. Here is picture just in case:
+I'm not sure whether you are familiar with the command line or not. If not, here is picture of it and details about it. You might already know about it. In this case, ignore this heading and skip to the heading called `Copy code in this repo angular-base-application` below.
 
 <img src="https://www.computerhope.com/issues/pictures/dos.jpg" />
 
-If you were into computers when the first windows came out, this was what a computer was (DOS). DOS (the command line) is still used by IT and CS people on a daily basis. I wanted to have an introduction with you about these things so you were aware of it. You might already know about it. In this case, ignore this heading and skip to the heading called "Copy code in this repo `angular-base-application`" below.
+If you were into computers when the first windows came out, this was what a computer was (DOS). DOS (the command line) is still used by IT and CS people on a daily basis. I wanted to have an introduction with you about these things so you were aware of it.
 
 Don't be afraid of the command line. Many people, especially using it for the first time always say they are afraid that they are going to ruin the computer. There is really only one command that can do that `rm -rf *`. Trust me, you don't ever want to do this, this will literally wipe your hard drive. lol. As long as you don't run that command, then your good!
 
