@@ -1,7 +1,21 @@
 Session 1 Notes
 ================
 
+Keep in mind that we will not get through all these. In fact, we will simply go through each of these for an hour. It doesn't matter how far we get. The next session we have will continue from that point. But we will do these through projects to build an app. This is why we will cover how to use Chrome's console, debugging, and which app we want to focus on first.
+
 ## Overview
+- Learning through Chrome's console
+  1. Open Google Chrome
+  2. Press CTRL+SHIFT+I or right click anywhere on the page and click "Inspect Element"
+  3. Click on the "Console" tab
+- Debugging in Chrome or VS Code
+  1. Install Chrome extension for VS Code
+  2. Go to source => CTRL+P => type in file name => Create a debug spot
+  3. Press `F5` or click "Debug" => "Start Debugging"
+- Building your first application
+  - Decide which one (application that will cover most of these concepts)
+  - Separate app into multiple pieces/components.
+  - Describe next steps to learn
 - Understanding of current knowledge
 - Programming and the real world
   - Variable - Box with a label
@@ -31,15 +45,4 @@ Session 1 Notes
     - Object
       - Just like a class, but its an "instance"
         - Classes are like a structure - So you make a Dog class, but that isn't a real dog, it just describes the dog. The object is an actual dog. It has a real name, a real type, etc.
-- Learning through Chrome's console
-  1. Open Google Chrome
-  2. Press CTRL+SHIFT+I or right click anywhere on the page and click "Inspect Element"
-  3. Click on the "Console" tab
-- Debugging in Chrome or VS Code
-  1. Install Chrome extension for VS Code
-  2. Create a debug point
-  3. Press `F5` or click "Debug" => "Start Debugging"
-- Decide on first app
-- Separate app into multiple pieces/components.
-- Describe next steps to learn
   
