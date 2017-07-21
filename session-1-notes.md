@@ -1,7 +1,7 @@
 Session 1 Notes
 ================
 
-Keep in mind that we will not get through all these. In fact, we will simply go through each of these for an hour. It doesn't matter how far we get. The next session we have will continue from that point. But we will do these through projects to build an app. This is why we will cover how to use Chrome's console, debugging, and which app we want to focus on first.
+Keep in mind that we will not get through all lists in `Programming and the real world`. But as we decide which app we will build, we will take one of the pieces of the app (a section of it), and then teach you all these principles as we build it. It doesn't matter how far we get. The next session we have will continue from that point. But we will do these through projects to build an app. This is why we will cover how to use Chrome's console, debugging, and which app we want to focus on first.
 
 ## Overview
 - Learning through Chrome's console
