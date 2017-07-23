@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "lite-server -c config.json"
+  },
   "dependencies": {
     "lite-server": "^2.3.0"
   }

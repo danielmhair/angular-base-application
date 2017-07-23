@@ -102,4 +102,9 @@ yarn install
 ```
 
 ### Step 6 - Run the app
-Now that you have installed the libraries you need, in `VS Code` go to the `Debug` menu. Click on `Start without debugging`. This will run your app.
+Now that you have installed the libraries you need, now run this command in the command line (P.S. you can use VS Code's command line -- press `CTRL+~`:
+```
+npm start
+```
+
+All this does is run your app, and it will open Chrome for you. When you make any changes to any files in your project, it will refresh the page for you. If it doesn't, then open any file in your project and press `CTRL+S` multiple times. It should work.
