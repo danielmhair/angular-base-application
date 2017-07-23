@@ -1,5 +1,5 @@
-Setting up computer for Programming Session 1
-=============================================
+After Session 1 - Setup
+=======================
 
 As a recap, you have went through all the necessary videos from `Udemy`'s Course about Web Developement from the teacher `Rob Percival` (as shown below):
 - Section 1: HTML
@@ -8,7 +8,15 @@ As a recap, you have went through all the necessary videos from `Udemy`'s Course
 
 Now you are ready to start coding in HTML, CSS and JavaScript. You have been exposed to these languages, but it only makes sense when you start using them and understand the concepts of programming as you code in these languages. Before doing this though, we need to go over some basics of tools that programmers always use. One of the main tools we will use is GitHub. To use GitHub most effectively, you will need to know how to use the command line.
 
-### Get familiar with the command line
+## Overview:
+- Get familiar with the command line
+- Copy the code in this repo
+- Install NodeJS
+- Install Yarn
+- Install libraries for the app
+- Run the app
+
+### Step 1 - Get familiar with the command line
 I'm not sure whether you are familiar with the command line or not. If not, here is picture of it and details about it. You might already know about it. In this case, ignore this heading and skip to the heading called `Copy code in this repo angular-base-application` below.
 
 <img src="https://www.computerhope.com/issues/pictures/dos.jpg" />
@@ -50,22 +58,22 @@ There will be a lot of other commands, but this will at least help you get famil
 
 MAC is a linux-based operating system and `cd` is from linux. Windows uses `dir`, because Windows does not use a linux-based operating system. its not linux. However, there are ways to use Linux-based commands in Windows, which is what we will do next. I suggest doing this, because all of the information online will use linux-based commands, not Windows (programmers love Linux -- I just love the commands from Linux, but use Windows as my operating system).
 
-### Copy the code in this repo `angular-base-application`
+### Step 2 - Copy the code in this repo `angular-base-application`
 
 Now that you know about the command line, you now know there are multiple kinds of command lines. We have `Command Prompt` for Windows, `Terminal` for MAC and others.
 
-#### Install [Git Bash](https://git-scm.com/downloads)
+#### Step 2a - Install [Git Bash](https://git-scm.com/downloads)
 We are going to have you install another command line called `Git Bash`. This allows you to use commands from `GitHub` in order to update a repo with your new code, copy code from a repo (which is what you are going to do now), and other things. Click on the link above and download `git bash`. Below are images showing what options to put when installing it.
 <br />
-<img src="./docs/git-bash-1.png" /><br />
-<img src="./docs/git-bash-2.png" /><br />
+<img src="./img/git-bash-1.png" /><br />
+<img src="./img/git-bash-2.png" /><br />
 <br />
 You might notice that the next step is telling git bash to add linux commands to the command line. This will add all the features of git bash in the Command Prompt and let you run `git` (`GitHub`) commands. The other addition linux commands means that instead of using `dir` to change directories, you can use what MAC uses, `cd`! Now changing from MAC to Windows will not be much different for you. <br /><br />
-<img src="./docs/git-bash-3.png" /><br />
-<img src="./docs/git-bash-4.png" /><br />
-<img src="./docs/git-bash-5.png" /><br />
-<img src="./docs/git-bash-6.png" /><br />
-<img src="./docs/git-bash-7.png" /><br />
+<img src="./img/git-bash-3.png" /><br />
+<img src="./img/git-bash-4.png" /><br />
+<img src="./img/git-bash-5.png" /><br />
+<img src="./img/git-bash-6.png" /><br />
+<img src="./img/git-bash-7.png" /><br />
 
 Open the command line (be sure to restart the command line after installing `git bash`).
 
@@ -76,4 +84,22 @@ cd angular-base-application
 ```
 
 Here is a screenshot when I did this:
-<img src="./docs/git-clone.png" />
+<img src="./img/git-clone.png" />
+
+You now have the code copied to your computer in the folder `angular-base-application`.
+
+### Step 3 - Install [NodeJS](https://nodejs.org/en/download/)
+Click on the link "NodeJS" above. Select the operating system and then run the installer it downloads.
+
+### Step 4 - Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+Make sure to install `Yarn` after you install `NodeJS` because `Yarn` uses `NodeJS` to install things. `Yarn` is a package manager. Click on the link and there is a button on the screen that says "Download Installer". Download it and install `Yarn` that way.
+
+### Step 5 - Install Libraries for this application
+Now that you have `NodeJS` and `Yarn` installed, you can now setup your application. Before, you are use to running your webpage by opening the `html` file. We now have an automated way that will open it for you and reload the page whenever you make changes to your files. Run the command below to prepare your app (you only need to do this once):
+
+```
+yarn install
+```
+
+### Step 6 - Run the app
+Now that you have installed the libraries you need, in `VS Code` go to the `Debug` menu. Click on `Start without debugging`. This will run your app.

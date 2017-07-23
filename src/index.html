@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Application</title>
+  <meta name="description" content="Application">
+  <meta name="author" content="Doug and Dan">
+
+  <link rel="stylesheet" href="./components/header/header.component.css">
+  <link rel="stylesheet" href="./components/navigation/navigation.component.css">
+  <link rel="stylesheet" href="./components/content/content.component.css">
+  <link rel="stylesheet" href="./components/footer/footer.component.css">
+</head>
+
+<body>
+  <div class="header">
+    <html-include src="./components/header/header.component.html"></html-include>
+  </div>
+  <div class="navigation">
+    <html-include src="./components/navigation/navigation.component.html"></html-include>
+  </div>
+  <div class="content">
+    <html-include src="./components/content/content.component.html"></html-include>
+  </div>
+  <div class="footer">
+    <html-include src="./components/footer/footer.component.html"></html-include>
+  </div>
+
+  <script type="text/javascript" src="./lib/html-include.min.js"></script>
+</body>
+</html>
