@@ -9,5 +9,6 @@ As you complete each item, be sure to email me about the progress. This way, I c
 - [ ] Finish the `Javascript` Section in the `Udemy` course
 
 When you send me the emails, then I will give you feedback, especially regarding:
-    - What improvements can be made to the design
-    - What pieces of the app you can work on first
+
+- What improvements can be made to the design
+- What pieces of the app you can work on first
