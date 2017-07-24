@@ -9,10 +9,9 @@ Session 1 Notes
   - Press `CTRL+P`, type in filename you want to debug in
   - Click on the line number you want to add a breakpoint in
   - Refresh the page
-- Learn some programming
-  - What is a variable
-  - Conditions
+- Learned some programming
+  - Variables
+  - Conditionals
     - `if` & `else` statements
-  - Talked lightly on what a `Class` and `Interface` is
 - Analyzed each app - [View Analysis](./session-1-app-analysis.md)
 - [Next Steps](./session-1-next-steps.md)
