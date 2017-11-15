@@ -1,11 +1,15 @@
-Learning Web/App Development 101
-================================
+# November 14th, 2017 Combined Priest's/Elder's Programming Activity
 
 Learning programming through Project-based learning.
 
+## Tasks to complete before November 14th
+
+- [ ] Make it so that `ng-widgets` is an `npm` package.
+- [ ] Make a test app using app-inventor to verify it will be good
+- [ ] 
+
 ## Overview
 
-### [Session 1 Review and Next Steps](./docs/session-1-review.md)
-### [Session 2 Preparation (not completed)](./docs/session-2.md)
-### [Session 3 Preparation (not completed)](./docs/session-3.md)
-### [Future Concepts to Learn](./docs/concepts-to-learn.md)
+- What Programmers do
+- Where it came from?
+- 
